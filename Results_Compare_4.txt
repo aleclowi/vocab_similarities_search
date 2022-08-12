@@ -1,0 +1,6 @@
+Comparison of FairyTale_Grimm1.txt and FairyTale_Grimm2.txt: 0.300015
+Comparison of FairyTale_Grimm1.txt and Einstein_Relativity.txt: 0.17708
+Comparison of FairyTale_Grimm1.txt and NewtonEinstein_Harrow.txt: 0.202215
+Comparison of FairyTale_Grimm2.txt and Einstein_Relativity.txt: 0.189565
+Comparison of FairyTale_Grimm2.txt and NewtonEinstein_Harrow.txt: 0.149291
+Comparison of Einstein_Relativity.txt and NewtonEinstein_Harrow.txt: 0.298864
